@@ -1,0 +1,216 @@
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lobol\Downloads\OB-5\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\CasosUso.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Downloads\OB-JUN\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.deps.json
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAp.7CDA08B3.Up2Date
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll

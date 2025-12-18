@@ -1,0 +1,122 @@
+﻿@model WebMVC.DTOs.PagoDTO
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PagoDTO</h4>
+<hr />
+<span>@ViewBag.Error</span>
+
+<div class="row"> 
+    <div class="col-md-4"> 
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+        <label for="UsuarioID" class="control-label">Usuario</label>
+        <select name="UsuarioID" id="UsuarioID" class="form-control">
+                @foreach (var u in Model.Usuarios)
+                {
+                    if (u.Id == Model.UsuarioID)
+                    {<option value="@u.Id" selected>@u.Nombre</option>}
+                    else  
+                    {<option value="@u.Id">@u.Nombre</option>}
+                }
+        </select>
+ 
+        <label for="GastoID" class="control-label">Tipo de Gasto</label>
+            <select name="GastoID" id="GastoID" class="form-control">
+                @foreach (var u in Model.Gastos)
+                {
+                    if (u.Id == Model.GastoID)
+                    {<option value="@u.Id" selected>@u.Nombre</option>}
+                    else
+                    {<option value="@u.Id">@u.Nombre</option>}
+                }
+            </select> 
+
+            <div class="form-group">
+            <label asp-for="TipoPago" class="control-label">Tipo de Pago</label>
+            <select asp-for="TipoPago" id="TipoPago" class="form-control">
+            <option value="unico">Pago Único</option>
+            <option value="recurrente">Pago Recurrente</option>
+            </select>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Metodo" class="control-label"></label>
+            <input asp-for="Metodo" class="form-control" />
+            <span asp-validation-for="Metodo" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="Descripcion" class="control-label"></label>
+            <input asp-for="Descripcion" class="form-control" />
+            <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+            <label asp-for="MontoTotal" class="control-label"></label>
+            <input asp-for="MontoTotal" class="form-control" />
+            <span asp-validation-for="MontoTotal" class="text-danger"></span>
+            </div>
+        @* -----------------------------------------------------------------------  *@
+            <div id="UNICO" >
+                <div class="form-group">
+                    <label asp-for="NumberoRecib" class="control-label"></label>
+                    <input asp-for="NumberoRecib" class="form-control" />
+                    <span asp-validation-for="NumberoRecib" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaPago" class="control-label"></label>
+                    <input asp-for="FechaPago" class="form-control" />
+                    <span asp-validation-for="FechaPago" class="text-danger"></span>
+                </div>
+            </div>
+        @* -----------------------------------------------------------------------  *@
+            <div id="RECURRENTE" style="display: none;">
+                <div class="form-group">
+                    <label asp-for="FechaDesde" class="control-label"></label>
+                    <input asp-for="FechaDesde" class="form-control" />
+                    <span asp-validation-for="FechaDesde" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="FechaHasta" class="control-label"></label>
+                    <input asp-for="FechaHasta" class="form-control" />
+                    <span asp-validation-for="FechaHasta" class="text-danger"></span>
+                </div>
+            </div>
+        <br>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        $(document).ready(function () {
+            $('#TipoPago').change(function () {
+                var tipo = $(this).val();
+
+                if (tipo === 'unico') {
+                    $('#UNICO').show();
+                    $('#RECURRENTE').hide();
+                } else if (tipo === 'recurrente') {
+                    $('#UNICO').hide();
+                    $('#RECURRENTE').show();
+                }
+            });
+        });
+    </script>
+}

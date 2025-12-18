@@ -1,0 +1,141 @@
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 26 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\lunes 31 de marzo\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+F:\P3\MARZO 2025\CLASES\N3C\miércoles 2 de abril\Presentacion\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\Serious Bus\UNI\SEM3\PROG\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\SeriousBus\UNI\SEM3\PROG\5\OB-5\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Downloads\OB-JUN\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+C:\Users\lobol\Desktop\OB 11-24\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\Jun\OB-JUN\Backend\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.deps.json
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\bin\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.AssemblyInfo.cs
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\refint\ExcepcionesPropias.dll
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ExcepcionesPropias.pdb
+D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Backend-API\ExcepcionesPropias\obj\Debug\net8.0\ref\ExcepcionesPropias.dll

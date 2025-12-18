@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendacioens.WebApi\\M3ERecomendacioens.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendacioens.WebApi\\M3ERecomendacioens.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendacioens.WebApi\\M3ERecomendacioens.WebApi.csproj",
+        "projectName": "M3ERecomendacioens.WebApi",
+        "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendacioens.WebApi\\M3ERecomendacioens.WebApi.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendacioens.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj"
+              },
+              "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\M3ERecomendaciones.LogicaAplicacion.csproj": {
+                "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\M3ERecomendaciones.LogicaAplicacion.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj",
+        "projectName": "M3ERecomendaciones.AccesoDatos",
+        "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\M3ERecomendaciones.LogicaAplicacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\M3ERecomendaciones.LogicaAplicacion.csproj",
+        "projectName": "M3ERecomendaciones.LogicaAplicacion",
+        "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\M3ERecomendaciones.LogicaAplicacion.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.LogicaAplicacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones.AccesoDatos\\M3ERecomendaciones.AccesoDatos.csproj"
+              },
+              "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj",
+        "projectName": "M3ERecomendaciones.LogicaNegocio",
+        "projectPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\M3ERecomendaciones.LogicaNegocio.csproj",
+        "packagesPath": "C:\\Users\\alumnoFI\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alumnoFI\\Downloads\\25-09-29-M3ERecomendaciones (Con Alta Juego)\\M3ERecomendaciones\\M3ERecomendaciones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alumnoFI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

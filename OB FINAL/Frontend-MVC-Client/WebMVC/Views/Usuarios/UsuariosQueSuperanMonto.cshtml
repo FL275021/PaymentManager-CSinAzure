@@ -1,0 +1,50 @@
+@model IEnumerable<WebMVC.DTOs.UsuarioDTO>
+@{
+    ViewData["Title"] = "Usuarios por Monto";
+}
+
+<h2>Usuarios con Pagos Únicos Mayores a un Monto Dado</h2>
+
+<form method="get" class="mb-3">
+    <div class="form-group">
+        <label for="monto">Monto Mínimo:</label>
+        <input type="number" name="monto" class="form-control" step="0.01" 
+               value="@ViewBag.Monto" required />
+    </div>
+    <button type="submit" class="btn btn-primary">Buscar</button>
+</form>
+
+@if (!string.IsNullOrEmpty(ViewBag.Error))
+{
+    <div class="alert alert-danger">@ViewBag.Error</div>
+}
+
+@if (ViewBag.Mensaje != null)
+{
+    <div class="alert alert-info">@ViewBag.Mensaje</div>
+}
+else if (ViewBag.Monto != null && Model.Any())
+{
+    <h3>Resultados para monto mayor a $@ViewBag.Monto</h3>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var usuario in Model)
+            {
+                <tr>
+                    <td>@usuario.Id</td>
+                    <td>@usuario.Nombre</td>
+                    <td>@usuario.Apellido</td>
+                    <td>@usuario.Email</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

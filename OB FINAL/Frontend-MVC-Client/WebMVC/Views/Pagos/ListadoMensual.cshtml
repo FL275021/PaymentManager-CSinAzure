@@ -1,0 +1,91 @@
+@model IEnumerable<WebMVC.DTOs.PagoDTO>
+
+@{
+    ViewData["Title"] = "Listado de Pagos";
+}
+
+<h1>Listado de Pagos Mensual</h1>
+
+<div class="row mb-3">
+    <div class="col-md-6">
+        <form method="get" class="form-inline">
+                <div class="form-group mx-2">
+
+                <label class="mr-2">Mes:</label>
+                <select name="mes" class="form-control">
+                    @for (int i = 1; i <= 12; i++)
+                    {
+                        var monthName = System.Globalization.CultureInfo.CurrentCulture.DateTimeFormat.GetMonthName(i);
+                        
+                        if (ViewBag.Mes == i)
+                        {
+                            <option value="@i" selected>@monthName</option>
+                        }
+                        else
+                        {
+                            <option value="@i">@monthName</option>
+                        }
+                    }
+                </select>
+            </div>
+
+                        <div class="form-group mx-2">
+                    <label class="mr-2">Año:</label>
+                    <select name="año" class="form-control">
+                        @for (int i = DateTime.Now.Year - 5; i <= DateTime.Now.Year; i++)
+                        {
+                            if (ViewBag.Año == i)
+                            {
+                                <option value="@i" selected>@i</option>
+                            }
+                            else
+                            {
+                                <option value="@i">@i</option>
+                            }
+                        }
+                    </select>
+                </div>
+            
+            <button type="submit" class="btn btn-primary">Buscar</button>
+        </form>
+    </div>
+</div>
+
+    @if (!Model.Any())
+        {
+        <div class="alert alert-info">
+            No hay pagos registrados para el período seleccionado.
+        </div>
+        }
+    else
+        {
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>@Html.DisplayNameFor(model => model.Id)</th>
+                        <th>@Html.DisplayNameFor(model => model.UsuarioEmail)</th>
+                        <th>@Html.DisplayNameFor(model => model.MontoTotal)</th>
+                        <th>@Html.DisplayNameFor(model => model.TipoPago)</th>
+                        <th>@Html.DisplayNameFor(model => model.GastoNombre)</th>
+                        <th>@Html.DisplayNameFor(model => model.Metodo)</th> 
+                        <th>Fecha</th>
+                        <th>Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                            <td>@Html.DisplayFor(modelItem => item.UsuarioEmail)</td>
+                            <td>@Html.DisplayFor(modelItem => item.MontoTotal)</td>
+                            <td>@Html.DisplayFor(modelItem => item.TipoPago)</td>
+                            <td>@Html.DisplayFor(modelItem => item.GastoNombre)</td>
+                            <td>@Html.DisplayFor(modelItem => item.Metodo)</td>
+                            <td>@item.FechaPago.ToString("dd/MM/yyyy")</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        }
+    <br>

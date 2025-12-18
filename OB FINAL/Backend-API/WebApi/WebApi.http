@@ -1,0 +1,6 @@
+@M3ERecomendacioens.WebApi_HostAddress = http://localhost:5223
+
+GET {{M3ERecomendacioens.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,78 @@
+@model WebMVC.DTOs.PagoDTO
+@{
+    ViewData["Title"] = "Edit";
+    bool isUnico = (Model.NumberoRecib != null);
+    bool isRecurrente = Model.FechaDesde.HasValue;
+}
+<h1>Editar Pago</h1>
+<span class="text-danger">@ViewBag.Error</span>
+<h4>@(isUnico ? "Pago Único" : "Pago Recurrente")</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <input type="hidden" asp-for="Id" />
+            <input type="hidden" asp-for="TipoPago" />
+            <input type="hidden" asp-for="UsuarioID" />
+            <input type="hidden" asp-for="GastoID" />
+            
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            
+            <div class="form-group">
+                <label asp-for="Metodo" class="control-label"></label>
+                <input asp-for="Metodo" class="form-control" />
+                <span asp-validation-for="Metodo" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="Descripcion" class="control-label"></label>
+                <input asp-for="Descripcion" class="form-control" />
+                <span asp-validation-for="Descripcion" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="MontoTotal" class="control-label"></label>
+                <input asp-for="MontoTotal" class="form-control" />
+                <span asp-validation-for="MontoTotal" class="text-danger"></span>
+            </div>
+            
+            @if (isUnico)
+            {
+                <div class="form-group">
+                    <label asp-for="NumberoRecib" class="control-label"></label>
+                    <input asp-for="NumberoRecib" class="form-control" />
+                    <span asp-validation-for="NumberoRecib" class="text-danger"></span>
+                </div>
+                
+                <div class="form-group">
+                    <label asp-for="FechaPago" class="control-label"></label>
+                    <input asp-for="FechaPago" type="date" class="form-control" />
+                    <span asp-validation-for="FechaPago" class="text-danger"></span>
+                </div>
+            }
+            else
+            {
+                <div class="form-group">
+                    <label asp-for="FechaDesde" class="control-label"></label>
+                    <input asp-for="FechaDesde" type="date" class="form-control" />
+                    <span asp-validation-for="FechaDesde" class="text-danger"></span>
+                </div>
+                
+                <div class="form-group">
+                    <label asp-for="FechaHasta" class="control-label"></label>
+                    <input asp-for="FechaHasta" type="date" class="form-control" />
+                    <span asp-validation-for="FechaHasta" class="text-danger"></span>
+                </div>
+            }
+            
+            <div class="form-group mt-3">
+                <input type="submit" value="Guardar" class="btn btn-primary" />
+                <a asp-action="Index" class="btn btn-secondary">Cancelar</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicanegocio\\entidadesdominio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicanegocio\\entidadesdominio\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\auditoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD07D478-68D3-43C8-93AD-5E8792A12E2F}|..\\Frontend\\WebMVC\\WebMVC.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\frontend\\webmvc\\views\\pagos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD07D478-68D3-43C8-93AD-5E8792A12E2F}|..\\Frontend\\WebMVC\\WebMVC.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\frontend\\webmvc\\views\\pagos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD07D478-68D3-43C8-93AD-5E8792A12E2F}|..\\Frontend\\WebMVC\\WebMVC.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\frontend\\webmvc\\views\\pagos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicanegocio\\entidadesdominio\\pagounico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\pagounico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicaaplicacion\\mapeadores\\mapperpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\mapeadores\\mapperpago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9284ECD-C1BA-4FA8-B811-9F0994B24038}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicaaccesodatos\\ef\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9284ECD-C1BA-4FA8-B811-9F0994B24038}|LogicaAccesoDatos\\LogicaAccesoDatos.csproj|solutionrelative:logicaaccesodatos\\ef\\empresacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\webapi\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\manejadorjwt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicanegocio\\valueobjects\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\valueobjects\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicanegocio\\entidadesdominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F36571E-FAA9-4986-7183-EA48C158BB4C}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidadesdominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicaaplicacion\\mapeadores\\mapperusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\mapeadores\\mapperusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\logicaaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CCACE03-59F0-4F01-B0AD-601431D044C7}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|c:\\users\\lobol\\desktop\\ob 11-24\\ob-jun\\backend\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10C63E28-0EE4-419B-8FE6-95DC31A1DEEB}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Equipo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Equipo.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Equipo.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Equipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:16:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auditoria.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Auditoria.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Auditoria.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Auditoria.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Auditoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:15:20.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\WebMVC\\Views\\Pagos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Edit.cshtml",
+              "RelativeToolTip": "..\\Frontend\\WebMVC\\Views\\Pagos\\Edit.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwB4AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T23:13:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\WebMVC\\Views\\Pagos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Details.cshtml",
+              "RelativeToolTip": "..\\Frontend\\WebMVC\\Views\\Pagos\\Details.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAwwEoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T23:13:04.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\Frontend\\WebMVC\\Views\\Pagos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Frontend\\WebMVC\\Views\\Pagos\\Create.cshtml",
+              "RelativeToolTip": "..\\Frontend\\WebMVC\\Views\\Pagos\\Create.cshtml",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-27T23:13:00.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PagoUnico.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\PagoUnico.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\PagoUnico.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\PagoUnico.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\PagoUnico.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:12:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MapperPago.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\Mapeadores\\MapperPago.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\Mapeadores\\MapperPago.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\Mapeadores\\MapperPago.cs",
+              "RelativeToolTip": "LogicaAplicacion\\Mapeadores\\MapperPago.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T23:12:31.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmpresaContext.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAccesoDatos\\EF\\EmpresaContext.cs",
+              "RelativeDocumentMoniker": "LogicaAccesoDatos\\EF\\EmpresaContext.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAccesoDatos\\EF\\EmpresaContext.cs",
+              "RelativeToolTip": "LogicaAccesoDatos\\EF\\EmpresaContext.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T22:48:25.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\ValueObjects\\Rol.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\ValueObjects\\Rol.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\ValueObjects\\Rol.cs",
+              "RelativeToolTip": "LogicaNegocio\\ValueObjects\\Rol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:58:04.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManejadorJwt.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\ManejadorJwt.cs",
+              "RelativeDocumentMoniker": "WebApi\\ManejadorJwt.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\ManejadorJwt.cs",
+              "RelativeToolTip": "WebApi\\ManejadorJwt.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAtwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:54:00.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MapperUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\Mapeadores\\MapperUsuario.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\Mapeadores\\MapperUsuario.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\Mapeadores\\MapperUsuario.cs",
+              "RelativeToolTip": "LogicaAplicacion\\Mapeadores\\MapperUsuario.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:53:29.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "LogicaAplicacion\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:50:40.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\EntidadesDominio\\Usuario.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:50:10.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAqwO4AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:26:42.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\lobol\\Desktop\\OB 11-24\\OB-JUN\\Backend\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAgwEwAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T21:14:29.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

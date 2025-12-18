@@ -1,0 +1,62 @@
+﻿@model WebMVC.DTOs.UsuarioDTO
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+<span>@ViewBag.Error</span>
+<h4>Usuario</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4"> 
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div> 
+            <div class="form-group">
+                <label asp-for="Nombre" class="control-label"></label>
+                <input asp-for="Nombre" class="form-control" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Apellido" class="control-label"></label>
+                <input asp-for="Apellido" class="form-control" />
+                <span asp-validation-for="Apellido" class="text-danger"></span>
+            </div>
+             <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control"  type="password"/>
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+             <div class="form-group"> 
+                <label for="Rol" class="control-label">Rol</label>
+            <select name="Rol" id="Rol" class="form-control">
+                <option value="EMPLEADO" selected>EMPLEADO</option>
+                <option value="GERENTE">GERENTE</option>
+                <option value="ADMIN">ADMIN</option>
+            </select>
+            </div>
+
+            <label for="EquipoId" class="control-label">Equipo</label>
+            <select name="EquipoId" id="EquipoId" class="form-control">
+                @foreach (var u in Model.Equipos)
+                {
+                    if (u.Id == Model.EquipoId)
+                    {<option value="@u.Id" selected>@u.Nombre</option>}
+                    else
+                    {<option value="@u.Id">@u.Nombre</option>}
+                }
+        </select>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

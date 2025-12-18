@@ -1,0 +1,155 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebMVC
+build_property.RootNamespace = WebMVC
+build_property.ProjectDir = D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Frontend-MVC-Client\WebMVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\PARABAILARLABAMBA\L\f\P\OB FINAL\Frontend-MVC-Client\WebMVC
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Equipos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Equipos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Equipos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Equipos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Equipos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXF1aXBvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Gastos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FzdG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Gastos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FzdG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Gastos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FzdG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Gastos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FzdG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Gastos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2FzdG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Home/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Pagos/ListadoMensual.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFnb3NcTGlzdGFkb01lbnN1YWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/CambiarContra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ2FtYmlhckNvbnRyYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/debug.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcZGVidWcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Usuarios/UsuariosQueSuperanMonto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcVXN1YXJpb3NRdWVTdXBlcmFuTW9udG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/PARABAILARLABAMBA/L/f/P/OB FINAL/Frontend-MVC-Client/WebMVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-giswp39xn8

@@ -1,0 +1,26 @@
+@model IEnumerable<UsuarioDTO>
+
+<h2>Debug Information</h2>
+<p>@ViewBag.Debug</p>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Rol</th>
+        </tr> 
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Nombre</td>
+            <td>@item.Email</td>
+            <td>@item.Rol</td>
+        </tr>
+    }
+    </tbody>
+</table>

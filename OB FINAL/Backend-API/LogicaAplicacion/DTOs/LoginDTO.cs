@@ -1,0 +1,19 @@
+using LogicaNegocio.EntidadesDominio;
+using LogicaNegocio.ValueObjects;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+
+namespace DTOs
+{
+	public class LoginDTO
+	{
+		public string Email { get; set; }
+		public string Password { get; set; }
+//		public Rol? Rol { get; set; }
+	}
+}
