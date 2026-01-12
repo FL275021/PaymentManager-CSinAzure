@@ -197,7 +197,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [C#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white
 [C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/
-[Azure.com]: https://img.shields.io/badge/databricks-000000?
+[Azure]: https://img.shields.io/badge/databricks-000000?
 [Azure-url]: https://azure.microsoft.com/es-es/get-started/azure-portal
 [dotnet]: https://img.shields.io/badge/dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
 [dotnet-url]: https://dotnet.microsoft.com/es-es/
