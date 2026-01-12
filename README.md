@@ -10,7 +10,7 @@ An user can have 1 of 3 different roles:
 
 -Admins: Manage all users, payments, expenses types and teams, aswell of all of the above options.
 
-#Technologies used:
+##Technologies used:
 
 ### Azure
 Client MVC and API resources, aswell as the database are all independently running in Azure.
