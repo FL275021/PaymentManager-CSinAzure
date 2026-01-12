@@ -19,7 +19,6 @@
 
   <p align="center">
    System for managing payments made by company teams(Customer service, Marketing, etc)
-    🚀 View Live App on Azure
     <br />
     <a href="https://github.com/FL275021/PaymentManager-CS"><strong>Explore the docs »</strong></a>
     <br />
@@ -55,10 +54,33 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+🚀 View Live App on Azure
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Each user can register a payment which will be linked to their corresponding team. 
+An user can have 1 of 3 different roles:
 
-Here's a blank template to get started. To avoid retyping too much info, do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
+-Employes: Login, Logout, Make a Payment, Check own payments. 
+
+-Managers: Monthly payments, List exceeding users, aswell of all of the above options.
+
+-Admins: Manage all users, payments, expenses types and teams, aswell of all of the above options.
+
+You can login with this different users:
+Email:`juan.perez@empresa.com`
+Password:`Pass123!`
+Rol: Administrator
+
+Email:`laura.fernandez@empresa.com`    
+Password:`Pass987!`
+Rol: Manager
+
+Email:`luis.lopez@empresa.com`
+Password:`Pass654!`
+Rol: Emplyee
+
+
+
+`github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`, `project_license`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -66,7 +88,7 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
+* [![C#][C#]][C#-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
