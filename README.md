@@ -1,7 +1,8 @@
 
 # System for managing payments made by company teams(Customer service, Marketing, etc)
 
-Each user can register a payment which will be linked to their corresponding team. An user can have 1 of 3 different roles(Admin, Manager, Employe), and each has both unique and shared options:
+Each user can register a payment which will be linked to their corresponding team. 
+An user can have 1 of 3 different roles:
 
 -Employes: Login, Logout, Make a Payment, Check own payments. 
 
@@ -9,9 +10,14 @@ Each user can register a payment which will be linked to their corresponding tea
 
 -Admins: Manage all users, payments, expenses types and teams, aswell of all of the above options.
 
-### Client MVC and API resources, aswell as the database are all up in Azure.
+#Technologies used:
 
-### Solution API restFull - utilizes clean architecture following the Solid principle.  
+### Azure
+Client MVC and API resources, aswell as the database are all independently running in Azure.
 
-JWT (JSON Web Token) Bearer Authentication:
-A JWT is a self-contained token that encapsulates information for an API resource or a client. The client which requested the JWT can request data from an API resource using the Authorization header and a bearer token.
+### Solution API restFull
+Utilizes clean architecture following the Solid principle.  
+
+### JWT (JSON Web Token) Bearer Authentication:
+A JWT is a self-contained token that encapsulates information for an API resource or a client.
+
