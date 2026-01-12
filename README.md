@@ -197,20 +197,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [C#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white
 [C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/
-[Azure]: https://img.shields.io/badge/databricks-000000?
+[Azure.com]: https://img.shields.io/badge/databricks-000000?
 [Azure-url]: https://azure.microsoft.com/es-es/get-started/azure-portal
 [dotnet]: https://img.shields.io/badge/dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
 [dotnet-url]: https://dotnet.microsoft.com/es-es/
 
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+
