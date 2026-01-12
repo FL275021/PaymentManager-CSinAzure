@@ -95,8 +95,8 @@ Rol: Employee
 
 ### Built With
 
-* [![C#][C#]][C#-url]
-* [![React][React.js]][React-url]
+* [![C][C#]][C#-url]
+* [![Azure][Azure.com]][Azure-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
@@ -197,8 +197,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [C#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white
 [C#-url]: https://docs.microsoft.com/en-us/dotnet/sharp/
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[Azure.com]: https://img.shields.io/badge/databricks-000000?style=for-the-badge&logo=databricks&logoColor=white
+[Azure-url]: [https://nextjs.org/](https://azure.microsoft.com/es-es/get-started/azure-portal)
+
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
