@@ -97,7 +97,7 @@ Rol: Employee
 
 * [![C][C#]][C#-url]
 * [![Azure][Azure.com]][Azure-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Dotnet][dotnet]][dotnet-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -196,12 +196,12 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [product-screenshot]: images/screenshot.png
 <!-- Shields.io badges. You can a comprehensive list with many more badges at: https://github.com/inttter/md-badges -->
 [C#]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white
-[C#-url]: https://docs.microsoft.com/en-us/dotnet/sharp/
-[Azure.com]: https://img.shields.io/badge/databricks-000000?style=for-the-badge&logo=databricks&logoColor=white
-[Azure-url]: [https://nextjs.org/](https://azure.microsoft.com/es-es/get-started/azure-portal)
+[C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/
+[Azure.com]: https://img.shields.io/badge/databricks-000000?
+[Azure-url]: https://azure.microsoft.com/es-es/get-started/azure-portal
+[dotnet]: https://img.shields.io/badge/dotnet-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
+[dotnet-url]: https://dotnet.microsoft.com/es-es/
 
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
