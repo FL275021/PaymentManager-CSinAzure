@@ -11,23 +11,24 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/FL275021/PaymentManager-CSinAzure">
+  <a href="https://github.com/FL275021/PaymentManager-CS">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">PaymentManager</h3>
 
   <p align="center">
-    project_description
+   System for managing payments made by company teams(Customer service, Marketing, etc)
+    🚀 View Live App on Azure
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/FL275021/PaymentManager-CS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/FL275021/PaymentManager-CS">View Demo</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/FL275021/PaymentManager-CS/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/FL275021/PaymentManager-CS/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
@@ -43,13 +44,7 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
+    <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -87,12 +82,9 @@ Here's a blank template to get started. To avoid retyping too much info, do a se
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The application is live in an Azure resource you can use it through this link: Live App on Azure
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
+If you want to download my code and run it on your own machine to see how I built it, follow these steps.
 * npm
   ```sh
   npm install npm@latest -g
