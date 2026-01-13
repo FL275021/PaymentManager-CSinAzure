@@ -48,7 +48,10 @@ namespace LogicaAccesoDatos.Repositorios
  
         public List<Pago> FindAll()
         {
-            return Contexto.Pagos.ToList();
+            return Contexto.Pagos
+                .Include(p => p.TipoGasto)
+                .Include(p => p.Usuario)
+                .ToList();
         }
 
         public Pago FindById(int id)
@@ -87,7 +90,7 @@ namespace LogicaAccesoDatos.Repositorios
         }
 
         //RF2 - ob2 "Deberá controlar que el usuario utilizado para el filtro sea el usuario que envía la solicitud." ????
-        public List<Pago> PagosDeUsuarioDado(int id)
+        public List<Pago> PagosDeUsuario(int id)
         { 
             return Contexto.Pagos
             .Where(p => p.Usuario.Id == id)
