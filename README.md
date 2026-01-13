@@ -15,11 +15,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">PaymentManager</h3>
+<h3 align="center">Payment Manager</h3>
 
   <p align="center">
-   System for managing payments made by company teams(Customer service, Marketing, etc)
-    <br />
+   <br />
     <a href="https://github.com/FL275021/PaymentManager-CS"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -56,6 +55,7 @@
 ## About The Project
 🚀 View Live App on Azure
 
+System for managing payments made by company teams(Customer service, Marketing, etc)
 Each user can register a payment which will be linked to their corresponding team. 
 An user can have 1 of 3 different roles:
 
