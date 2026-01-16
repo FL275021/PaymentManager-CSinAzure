@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en" data-bs-theme="dark">
 <head>
     <meta charset="utf-8" />
@@ -25,7 +25,6 @@
                     <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Login">Acceder al sistema</a>
                </li>
             }
-
         @if( Context.Session.GetString("loggedId") != null )
             {
                 <li class="nav-item">
@@ -33,14 +32,15 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-light" asp-area="" asp-controller="Pagos" asp-action="Create">Alta Pago</a>
-                </li>                
-                @if (Context.Session.GetString("loggedRol") == "EMPLEADO"  || Context.Session.GetString("Rol") == "GERENTE" )
-                {
-                    <li class="nav-item">
+                </li>   
+                 <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Usuario" asp-action="ResetPassword">Reiniciar Contraseña</a>
+                </li>
+               <li class="nav-item">
                     <a class="nav-link text-light" asp-area="" asp-controller="Pagos" asp-action="PagosDeUsuario">Pagos De Usuario</a>
-                    </li>
-                } 
-                @if (Context.Session.GetString("loggedRol") == "GERENTE" )
+                </li>  
+
+                @if (Context.Session.GetString("loggedRol") == "Gerente" || Context.Session.GetString("loggedRol") == "Administrador" )
                 {
                    <li class="nav-item">
                     <a class="nav-link text-light" asp-area="" asp-controller="Pagos" asp-action="ListadoMensual">Listado Pagos Mensual</a>
@@ -48,21 +48,25 @@
                     <li class="nav-item"> 
                     <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="UsuariosQueSuperanMonto">Usuarios por monto</a>
                     </li>
-                } 
-                @if (Context.Session.GetString("loggedRol") == "ADMIN" )
-                {
-                    <li class="nav-item">
-                    <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Create">Alta Usuario</a>
+                    <li class="nav-item"> 
+                    <a class="nav-link text-light" asp-area="" asp-controller="Gastos" asp-action="AuditoriaGasto">Auditorias</a>
                     </li>
-                      <li class="nav-item">
-                        <a class="nav-link text-light" asp-area="" asp-controller="Gastos" asp-action="Index">Gastos</a>
+                } 
+                @if (Context.Session.GetString("loggedRol") == "Administrador" )
+                {
+                   <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Usuarios" asp-action="Index">Usuarios</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-light" asp-area="" asp-controller="Pagos" asp-action="Index">Pagos</a>
                     </li>
                      <li class="nav-item">
                         <a class="nav-link text-light" asp-area="" asp-controller="Equipos" asp-action="Index">Equipos</a>
+                    </li>  
+                     <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Gastos" asp-action="Index">Gastos</a>
                     </li>
+                 
                 } 
           
         }
