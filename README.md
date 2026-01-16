@@ -1,4 +1,4 @@
-# System for managing payments made by company teams(Customer service, Marketing, etc)
+# System for managing payments made by company teams
 
 Each user can register a payment which will be linked to their corresponding team. 
 An user can have 1 of 3 different roles:
