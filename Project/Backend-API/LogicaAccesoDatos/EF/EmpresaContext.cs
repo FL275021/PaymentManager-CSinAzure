@@ -27,8 +27,7 @@ namespace LogicaAccesoDatos.EF
         {
             if (!optionsBuilder.IsConfigured)
             {
-                /* optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=OBBdD;Integrated Security=SSPI;",
-                sqlOptions => sqlOptions.EnableRetryOnFailure()); */
+/* optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=OBBdD;Integrated Security=SSPI;",sqlOptions => sqlOptions.EnableRetryOnFailure()); */
                 var connectionString = Environment.GetEnvironmentVariable("MiConexionLocal")
            ?? "Server=tcp:mi-servidor-sqlempresa.database.windows.net,1433;Initial Catalog=MiBaseDeDatos;Persist Security Info=False;User ID=dba;Password=NK'4!z'LU8-r>u~;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
                 optionsBuilder.UseSqlServer(connectionString, sqlOptions => sqlOptions.EnableRetryOnFailure());
