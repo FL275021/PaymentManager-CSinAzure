@@ -3,9 +3,9 @@
 Each user can register a payment which will be linked to their corresponding team. 
 An user can have 1 of 3 different roles:
 
--Employes: Login, Logout, Make a Payment, Check own payments. 
+-Employes: Login, Logout, Reset Password, Make a Payment, Check own payments.  
 
--Managers: Monthly payments, List exceeding users, aswell of all of the above options.
+-Managers: Monthly payments, List exceeding users, Audits aswell of all of the above options.
 
 -Admins: Manage all users, payments, expenses types and teams, aswell of all of the above options.
 
