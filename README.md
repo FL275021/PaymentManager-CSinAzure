@@ -11,7 +11,7 @@ An user can have 1 of 3 different roles:
 
 ### Technologies used:
 ### Azure
-Client MVC and API resources, aswell as the database are all independently running in Azure.
+Client MVC, API resources and the database are all independently running in Azure.
 
 ### Solution API restFull
 Utilizes clean architecture following the Solid principle.  
